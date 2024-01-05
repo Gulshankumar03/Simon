@@ -3,7 +3,7 @@ body {
   background-color: #011F3F;
 }
 
-h3{
+h4{
   color: yellow;
   margin-bottom: 2rem;
   margin-left: 5rem;
@@ -17,11 +17,11 @@ footer{
 }
 #start{
   text-align: center;
-  font-size: 1.1rem;
+  font-size: 1.7rem;
   font-family: 'Press Start 2P', cursive;
-  height: 3rem;
-  width: 8rem;
-  border-radius: 30px;
+  height: 5rem;
+  width: 12rem;
+  border-radius: 80px;
   background-color: rgb(255, 255, 143);
 }
 
