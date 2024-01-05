@@ -53,6 +53,7 @@ function checkAnswer(currentLevel) {
         $("body").removeClass("game-over");
       },200);
       startOver();
+        $("#start").show();
     }
 }
 
